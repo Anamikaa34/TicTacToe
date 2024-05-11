@@ -1,2 +1,2 @@
-# LGMVIP_task2_TicTacToe
+# TicTacToe
 tictactoe game using java
